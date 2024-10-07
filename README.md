@@ -5,3 +5,5 @@ An advanced sudoku solver aiming to solve all sudokus. This currently solves aro
 Use the fileinput version with files from here:https://github.com/grantm/sudoku-exchange-puzzle-bank
 The normal input versions can be individual sudokus pasted in this format (004073000780020030005800000960000000507000409000000026000009600020060073000730800)
 
+Update - this now falls back on a recursive backtracking algorithm cause my friend made fun of the 0.01 
+
